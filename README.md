@@ -1,11 +1,6 @@
 # AgenticVS
-Here is the professional and accurate English translation of your **VSAgent** README documentation, formatted cleanly using standard Markdown syntax.
 
----
-
-# VSAgent
-
-VSAgent is a Video Summarization and action detection scoring system powered by Large Language Models (LLMs) and multimodal features. This project provides a complete pipeline consisting of feature extraction, feature fusion, LLM verification (Verifier), and semantic refinement (Reflector) to achieve high-quality video score prediction and feature training.
+AgenticVS is a Video Summarization Agentic Workflow powered by Multimodal Large Language Models (MLLMs) and multimodal features. This project provides a complete pipeline consisting of feature extraction, feature fusion, LLM verification (Verifier), and semantic refinement (Reflector) to achieve high-quality video score prediction and feature training.
 
 ---
 
